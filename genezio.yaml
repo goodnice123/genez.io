@@ -14,6 +14,6 @@ backend:
             - npm install
         local:
             - npm install
-name: mygenez
-region: us-east-1
+name: test
+region: eu-west-1
 yamlVersion: 2
